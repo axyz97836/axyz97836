@@ -15,8 +15,6 @@ Computer Science student focused on full-stack development, with hands-on experi
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=axyz97836&theme=dark&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=axyz97836&limit=5&theme=dark&combine_all_yearly_contributions=true)
